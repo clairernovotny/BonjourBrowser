@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonjourBrowser.Windows", "B
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonjourBrowser.WindowsPhone", "BonjourBrowser\BonjourBrowser.WindowsPhone\BonjourBrowser.WindowsPhone.csproj", "{E7D6B2B5-7E94-48A3-9D8A-299D5CEA05EF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{331154EC-7BD4-4C73-8F26-94AC482C98E9}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		BonjourBrowser\BonjourBrowser.Shared\BonjourBrowser.Shared.projitems*{e7d6b2b5-7e94-48a3-9d8a-299d5cea05ef}*SharedItemsImports = 4
